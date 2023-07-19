@@ -1,0 +1,35 @@
+img {
+  height: 100%;
+  width: 100%;
+  border: 5px solid white;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: white;
+  text-align: center;
+  text-decoration: solid;
+  font-weight: bolder;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+}
+
+body {
+  background: black;
+}
+
+#dany {
+  height: 100%;
+  width: 100%;
+  border: 5px solid white;
+}
